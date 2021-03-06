@@ -1,0 +1,1 @@
+/* give a nickname of the column */
