@@ -1,5 +1,5 @@
 integer: 1
 real: 10.21
 
-text: table
+text: "table"
 date: 01.01.1991
