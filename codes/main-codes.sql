@@ -1,8 +1,10 @@
 //this code you can call table and opening 
-Select * from table;
+SELECT * FROM table;
 
 //if you want special column you can use this code
-Select column from table;
+SELECT column FROM table;
 
 //create table- "table" your table name, "column_1" column name, "type" column type
-Create Table table (column_1 type);
+CREATE TABLE table (column_1 type);
+
+
